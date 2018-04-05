@@ -1,0 +1,15 @@
+{
+  "name": "maycumberproject",
+  "version": "1.0.1",
+  "description": "Code Tutorail",
+  "main": "index.js",
+  "repository": "http://ThisIsAURL.com/url",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Chad Maycumber",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
